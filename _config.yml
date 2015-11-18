@@ -1,0 +1,24 @@
+name: Undesk
+favicon: null
+layout_spectrum: 0.4732850145082921
+typography_spectrum: 0.2629265694413334
+title: 'Designing the best work:life:space'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.08668817044235766
+  lightness: 0.09576424956321716
+  saturation: 0.2953470884822309
+  rhythmicContrast: 0.7850308588240296
+purpose: []
